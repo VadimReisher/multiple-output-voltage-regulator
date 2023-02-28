@@ -7,5 +7,6 @@ I used Altium Designer to create my project.
 
 
 # 3D View:
-![image](https://user-images.githubusercontent.com/98824697/221684544-a0bdeb4d-3e6c-405b-b5ea-17a9a9d8c732.png)
+![image](https://user-images.githubusercontent.com/98824697/221900843-fc3ef89d-d7e4-41c8-9c5c-fbdb3eb9d5e1.png)
+
 
