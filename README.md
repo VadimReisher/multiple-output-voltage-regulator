@@ -1,4 +1,5 @@
 # multiple-output-voltage-regulator
+The project is not completely done but very useful
 Multiple output voltage regulator using 6 ways DIP switch to chenge voltage output
 
 # circuit of voltage regulator:
