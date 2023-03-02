@@ -12,6 +12,5 @@ I used Altium Designer to create my project.
 
 # Calculating equivalent resistance value
 To calculate equivalent resistance value I made a small application in Excel that can quickly help with it.
-The operating instructions are in the file .xlsm 
-
+The operating instructions are in the file ResistorValueCalc.xlsm 
 
