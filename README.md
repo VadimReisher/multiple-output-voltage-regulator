@@ -10,4 +10,8 @@ I used Altium Designer to create my project.
 # 3D View:
 ![image](https://user-images.githubusercontent.com/98824697/221900843-fc3ef89d-d7e4-41c8-9c5c-fbdb3eb9d5e1.png)
 
+# Calculating equivalent resistance value
+To calculate equivalent resistance value I made a small application in Excel that can quickly help with it.
+The operating instructions are in the file .xlsm 
+
 
